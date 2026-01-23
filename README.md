@@ -648,7 +648,7 @@ pip install -r requirements.txt
 - Test components individually (`test_alert.py`, etc.)
 
 **Contact:**
-- Email: kameliakaut@gmail.com
+- Email: rimerizha@gmail.com
 - Discord: @rhimcapital
 
 ---
@@ -682,4 +682,3 @@ pip install -r requirements.txt
 
 **Version:** 1.0.0  
 **Last Updated:** January 22, 2026  
-**Author:** Kamelia Kaut
